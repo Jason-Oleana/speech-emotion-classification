@@ -22,10 +22,13 @@ pip install -r requirements.txt
 https://drive.google.com/drive/folders/1S3j7CkyGWDpjS6OMSGOL0ka_osKff_Vg?usp=sharing
 ```
 
-## step 5: Update my_path to RAVDESS-RawData
+## step 5: Update my_path to RAVDESS-RawData in the .ipynb project
 ```
 my_path = "your path to Ravdess-RawData"
 ```
+
+## step 6: You can run the code :)
+
 
 
 
