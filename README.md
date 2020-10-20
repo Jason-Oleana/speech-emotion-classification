@@ -32,6 +32,6 @@ my_path = "your path to Ravdess-RawData"
 
 ## step 6: You can run the code :)
 
+## SVM baseline model: accuracy rate of SVM with MFCC features
 
-
-
+![](SVM_results.PNG)
