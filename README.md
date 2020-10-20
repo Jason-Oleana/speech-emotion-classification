@@ -52,3 +52,8 @@ my_path = "your path to Ravdess-RawData"
 ### Confusion matrix: best-performing SVM classifier (eight emotions) with MFCC features
 
 ![](8-emotions-conf.PNG)
+
+## Idea's 
+
+- Data Augmentation (CNN needs more data for better training)
+- Concatenating other speech features
