@@ -53,6 +53,12 @@ my_path = "your path to Ravdess-RawData"
 
 ![](8-emotions-conf.PNG) 
 
+### Mel frequency cepstral coefficients (MFCCs)
+Mel frequency cepstral coefficients are the most widely used speech feature for SER. 
+Mel Frequency Cepstral Coefficients are derived from the cepstrum, which is the inverse spectral transform of the logarithm of the spectrum. 
+They concisely describe the overall shape of a spectral envelope
+
+
 ### Speech feature categorization according to their temporal structure (suprasegmental vs. segmental) and parameterization (LLDs vs. functionals).
 
 
