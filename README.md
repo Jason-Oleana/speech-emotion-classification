@@ -34,4 +34,9 @@ my_path = "your path to Ravdess-RawData"
 
 ## Accuracy rate of SVM with MFCC features
 
+```
+3 emotions = happy, sad, neutral
+5 emotions = happy, angry, neutral, sad, and fearful
+8 emotions = happy, angry, neutral, sad, fearful, disgust, calm, surprised
+```
 ![](SVM_results.PNG)
