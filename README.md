@@ -51,11 +51,10 @@ my_path = "your path to Ravdess-RawData"
 
 ### Confusion matrix: best-performing SVM classifier (eight emotions) with MFCC features
 
-![](8-emotions-conf.PNG)
+![](8-emotions-conf.PNG) 
 
 ### Speech feature categorization according to their temporal structure (suprasegmental vs. segmental) and parameterization (LLDs vs. functionals).
 
-\
 
 ![](speech-features.PNG)
 
