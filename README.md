@@ -53,6 +53,10 @@ my_path = "your path to Ravdess-RawData"
 
 ![](8-emotions-conf.PNG)
 
+### Speech feature categorization according to their temporal structure (suprasegmental vs. segmental) and parameterization (LLDs vs. functionals).
+
+![](speech-features.PNG)
+
 ## Idea's 
 
 - Data Augmentation (CNN needs more data for better training)
