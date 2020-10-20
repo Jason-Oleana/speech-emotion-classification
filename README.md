@@ -40,3 +40,15 @@ my_path = "your path to Ravdess-RawData"
 8 emotions = happy, angry, neutral, sad, fearful, disgust, calm, surprised
 ```
 ![](SVM_results.PNG)
+
+## Confusion matrix: best-performing SVM classifier (three emotions) with MFCC features
+
+![](3-emotions-conf.PNG)
+
+## Confusion matrix: best-performing SVM classifier (five emotions) with MFCC features
+
+![](5-emotions-conf.PNG)
+
+## Confusion matrix: best-performing SVM classifier (eight emotions) with MFCC features
+
+![](8-emotions-conf.PNG)
