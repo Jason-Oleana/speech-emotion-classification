@@ -32,7 +32,7 @@ my_path = "your path to Ravdess-RawData"
 
 ## step 6: You can run the code :)
 
-## Accuracy rate of SVM with MFCC features
+### Accuracy rate of SVM with MFCC features
 
 ```
 3 emotions = happy, sad, neutral
@@ -41,14 +41,14 @@ my_path = "your path to Ravdess-RawData"
 ```
 ![](SVM_results.PNG)
 
-## Confusion matrix: best-performing SVM classifier (three emotions) with MFCC features
+### Confusion matrix: best-performing SVM classifier (three emotions) with MFCC features
 
 ![](3-emotions-conf.PNG)
 
-## Confusion matrix: best-performing SVM classifier (five emotions) with MFCC features
+### Confusion matrix: best-performing SVM classifier (five emotions) with MFCC features
 
 ![](5-emotions-conf.PNG)
 
-## Confusion matrix: best-performing SVM classifier (eight emotions) with MFCC features
+### Confusion matrix: best-performing SVM classifier (eight emotions) with MFCC features
 
 ![](8-emotions-conf.PNG)
