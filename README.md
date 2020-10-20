@@ -58,6 +58,17 @@ Mel frequency cepstral coefficients are the most widely used speech feature for 
 Mel Frequency Cepstral Coefficients are derived from the cepstrum, which is the inverse spectral transform of the logarithm of the spectrum. 
 They concisely describe the overall shape of a spectral envelope
 
+### Findings and limitations
+
+A noticeable result was in the emotions that achieved the lowest performance: happy, disgust, sadness, and anger. 
+These emotions were the most difficult to distinguish for both the Log-Gabor conditions and the MFCC conditions. 
+A reason for the lower performance could be that disgust, anger, and sadness fall under the unpleasant range of valence. 
+According to research on the vocal communication of emotion conducted by Scherer (2003), emotions with a similar valence are often confused with one another, and can therefore be harder for a machine learning algorithm to classify.
+
+A limitation of this research is that the dataset consisted of acted emotions recorded by professional actors. 
+According to Gupta & Rajput (2007), the stress on various emotions is not significant when customers express long sentences. 
+In another study on the relationship between lexical and prosodic emotional cues in English (Mairano, Zovato & Quinci, 2019), the researchers indicated that speech voiced by professional actors tends to be overacted. For this reason, acted emotions do not correspond to the natural flows found in spontaneous speech (Scherer, 2013). 
+Furthermore, a multimodel algorithm could be proposed in order to handle acoustic features and converting speech to text for sentiment analysis from real conversation. A combination of acoustic features and sentiment analysis from text could increase the accuracy of speech emotion classification algorithms.
 
 ### Speech feature categorization according to their temporal structure (suprasegmental vs. segmental) and parameterization (LLDs vs. functionals).
 
@@ -70,3 +81,9 @@ They concisely describe the overall shape of a spectral envelope
 - Data Augmentation (CNN needs more data for better training)
 - Concatenate other speech features
 - Concatenate other datasets for more training data
+
+## Literature
+
+- Scherer, Klaus R. "Vocal communication of emotion: A review of research paradigms." Speech communication 40.1-2 (2003): 227-256.
+- Gupta, P., & Rajput, N. (2007). Two-stream emotion recognition for call center monitoring. In Eighth Annual Conference of the International Speech Communication Association. 
+- Mairano, P., Zovato, E., & Quinci, V. (2019). On the relation between lexical and prosodic cues of emotion in English: a preliminary corpus-based analysis. Anglophonia.
