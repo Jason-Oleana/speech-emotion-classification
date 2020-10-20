@@ -65,7 +65,8 @@ They concisely describe the overall shape of a spectral envelope
 ![](speech-features.PNG)
 
 
-## Idea's 
+## Ideas 
 
 - Data Augmentation (CNN needs more data for better training)
 - Concatenating other speech features
+- Concatenating other datasets for more training data
