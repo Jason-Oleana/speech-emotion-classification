@@ -99,8 +99,8 @@ accuracy of speech emotion classification algorithms.
 
 ## Literature
 
-- Scherer, Klaus R. "Vocal communication of emotion: A review of research paradigms." Speech communication 40.1-2 (2003): 227-256.
-- Gupta, P., & Rajput, N. (2007). Two-stream emotion recognition for call center monitoring. In Eighth Annual Conference of the International Speech Communication Association. 
-- Mairano, P., Zovato, E., & Quinci, V. (2019). On the relation between lexical and prosodic cues of emotion in English: a preliminary corpus-based analysis. Anglophonia.
 - Anagnostopoulos, C. N., & Iliou, T. (2010). Towards emotion recognition from speech: definition, problems and the materials of research. In Semantics in Adaptive and Personalized Services (pp. 127-143). Springer, Berlin, Heidelberg.
 - Anagnostopoulos, C. N., Iliou, T., & Giannoukos, I. (2015). Features and classifiers for emotion recognition from speech: a survey from 2000 to 2011. Artificial Intelligence Review, 43(2), 155-177.
+- Gupta, P., & Rajput, N. (2007). Two-stream emotion recognition for call center monitoring. In Eighth Annual Conference of the International Speech Communication Association. 
+- Mairano, P., Zovato, E., & Quinci, V. (2019). On the relation between lexical and prosodic cues of emotion in English: a preliminary corpus-based analysis. Anglophonia.
+- Scherer, Klaus R. "Vocal communication of emotion: A review of research paradigms." Speech communication 40.1-2 (2003): 227-256.
