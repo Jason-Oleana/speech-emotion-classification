@@ -59,7 +59,6 @@ Mel Frequency Cepstral Coefficients are derived from the cepstrum, which is the 
 They concisely describe the overall shape of a spectral envelope
 
 ### Findings and limitations
-
 A noticeable result was in the emotions that achieved the lowest performance: happy, disgust, sadness, and anger. 
 These emotions were the most difficult to distinguish for both the Log-Gabor conditions and the MFCC conditions. 
 A reason for the lower performance could be that disgust, anger, and sadness fall under the unpleasant range of valence. 
