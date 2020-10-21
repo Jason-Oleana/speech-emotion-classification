@@ -64,10 +64,16 @@ These emotions were the most difficult to distinguish for both the Log-Gabor con
 A reason for the lower performance could be that disgust, anger, and sadness fall under the unpleasant range of valence. 
 According to research on the vocal communication of emotion conducted by Scherer (2003), emotions with a similar valence are often confused with one another, and can therefore be harder for a machine learning algorithm to classify.
 
-A limitation of this research is that the dataset consisted of acted emotions recorded by professional actors. 
-According to Gupta & Rajput (2007), the stress on various emotions is not significant when customers express long sentences. 
-In another study on the relationship between lexical and prosodic emotional cues in English (Mairano, Zovato & Quinci, 2019), the researchers indicated that speech voiced by professional actors tends to be overacted. For this reason, acted emotions do not correspond to the natural flows found in spontaneous speech (Scherer, 2013). 
-Furthermore, a multimodel algorithm could be proposed in order to handle acoustic features and converting speech to text for sentiment analysis from real conversation. A combination of acoustic features and sentiment analysis from text could increase the accuracy of speech emotion classification algorithms.
+A limitation of this research is that the dataset consisted of acted emotions recorded by
+professional actors. According to Gupta & Rajput (2007), the stress on various emotions is
+not significant when customers express long sentences. In another study on the relationship
+between lexical and prosodic emotional cues in English (Mairano, Zovato & Quinci, 2019),
+the researchers indicated that speech voiced by professional actors tends to be overacted.
+For this reason, acted emotions do not correspond to the natural flows found in spontaneous
+speech (Scherer, 2013). Furthermore, a multimodel algorithm could be proposed in order
+to handle acoustic features and converting speech to text for sentiment analysis from real
+conversation. A combination of acoustic features and sentiment analysis from text could increase the
+accuracy of speech emotion classification algorithms.
 
 ### Speech feature categorization according to their temporal structure (suprasegmental vs. segmental) and parameterization (LLDs vs. functionals).
 
