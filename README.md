@@ -49,7 +49,7 @@ In contrast, ‘sad’ was selected as it falls in the lowest range of arousal a
 of arousal and valence. For the second set, five emotions were selected for
 evaluation: happy, angry, neutral, sad, and fearful.
 
-![](valence-arousal.PNG)
+![](valence_arousal.PNG)
 
 ### Confusion matrix: best-performing SVM classifier (three emotions) with MFCC features
 
