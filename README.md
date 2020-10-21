@@ -40,6 +40,8 @@ my_path = "your path to Ravdess-RawData"
 8 emotions = happy, angry, neutral, sad, fearful, disgust, calm, surprised
 ```
 
+![](SVM_results.PNG)
+
 The emotion sets were selected based on the two-dimensional space of arousal and valence. 
 ‘Happy’ was selected as it falls in the highest range of both arousal and positive valence. 
 In contrast, ‘sad’ was selected as it falls in the lowest range of arousal and the highest range of negative valence. 
@@ -48,8 +50,6 @@ of arousal and valence. For the second set, five emotions were selected for
 evaluation: happy, angry, neutral, sad, and fearful.
 
 ![](valence-arousal.PNG)
-
-![](SVM_results.PNG)
 
 ### Confusion matrix: best-performing SVM classifier (three emotions) with MFCC features
 
